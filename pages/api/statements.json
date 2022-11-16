@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "title": "Have you ever thought about <a href=\"https://yourafter.life\">Your After .Life</a>?",
+    "description": "NO!? <br />Don&apos;t worry! Many people don&apos;t think about it!",
+    "links": [
+      {
+        "id": 1,
+        "title": "But we did!",
+        "subtitle": "Are you curious what we found out?",
+        "to": "/statements/1"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Good news!",
+    "description": "It turns out there is an after life! <br />Here is what God says about after life:",
+    "back": "/",
+    "links": [
+      {
+        "id": 2,
+        "title": "Great!",
+        "subtitle": "So I have eternal life, right?",
+        "to": "/statements/2"
+      }
+    ],
+    "verses": [
+      {
+        "id": 1,
+        "ref": "1 John 2:25 (CSB)",
+        "text": "And this is the promise that he himself made to us: eternal life."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Yes! And... no...",
+    "description": "There is also a judgement day which is coming:",
+    "verses": [
+      {
+        "id": 2,
+        "ref": "Hebrews 9:27 (CSB)",
+        "text": "And just as it is appointed for people to die once—and after this, judgment—"
+      }
+    ],
+    "back": "/statements/1",
+    "links": [
+      {
+        "id": 3,
+        "title": "Pfft!",
+        "subtitle": "I won&apos;t face judgement, right? I am a good person!",
+        "to": "/statements/3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Your actions will be judged!",
+    "description": "On that judgement day, God will judge everyone, except those <br />who&apos;s names are written in the Book of life.",
+    "verses": [
+      {
+        "id": 3,
+        "ref": "Revelation 20:11-15 (CSB)",
+        "text": [
+          "11 Then I saw a great white throne and one seated on it. Earth and heaven fled from his presence, and no place was found for them. ",
+          "12 I also saw the dead, the great and the small, standing before the throne, and books were opened. Another book was opened, which is the Book of life, and the dead were judged according to their works by what was written in the books. ",
+          "13 Then the sea gave up the dead that were in it, and death and Hades gave up the dead that were in them; each one was judged according to their works. ",
+          "14 Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. ",
+          "15 And anyone whose name was not found written in the Book of life was thrown into the lake of fire."
+        ]
+      }
+    ],
+    "back": "/statements/2",
+    "links": [
+      {
+        "id": 4,
+        "title": "Book of life?!",
+        "subtitle": "How do I get my name there?",
+        "to": "/statements/4"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "It&apos;s simple! Believe!",
+    "description": [
+      "Ugh... That word Christians like to use... <br />Let me explain!",
+      "The Bible states that <strong>God</strong> is the <strong>true</strong> God and that <strong>Jesus</strong> is the <strong>Son</strong> of God, yet <strong>Jesus</strong> is also <strong>the one true God</strong>.",
+      "The Bible also says that Jesus was perfect and sinless, and that he was born of the virgin Mary, He was not cursed with sin as those who come from human lineage.",
+      "The cost of sin is death, animal blood was used to <strong>cover</strong> the sin of man, but it could not clean man of it. Only perfect, sinless, divine blood, could wash mankind of sin.",
+      "Thus Jesus died on a cross, shedding His Blood on that tree (the cross) washing away the sin of mankind. Furthermore, Jesus was raised from the dead, conquering death showing His power as God, sovereign over all things.",
+      "But, to be written in the Book of life, there is <strong>one</strong> thing thing you must do!"
+    ],
+    "back": "/statements/3",
+    "links": [
+      {
+        "id": 5,
+        "title": "What must I do?",
+        "subtitle": "I want to know!",
+        "to": "/statements/5"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Believe! And repent!",
+    "description": "All God wants is for us to believe in Him and to repent.",
+    "verses": [
+      {
+        "id": 4,
+        "ref": "Mark 1:15 (CSB)",
+        "text": "The time is fulfilled, and the kingdom of God has come near. Repent and believe the good news!"
+      },
+      {
+        "id": 5,
+        "ref": "John 5:24 (CSB)",
+        "text": "Truly I tell you, anyone who hears my word and believes him who sent me has eternal life and will not come under judgment but has passed from death to life."
+      },
+      {
+        "id": 6,
+        "ref": "Romans 10:9-13 (CSB)",
+        "text": [
+          "9 If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. ",
+          "10 One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation. ",
+          "11 For the Scripture says, Everyone who believes on him will not be put to shame, ",
+          "12 since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him. ",
+          "13 For everyone who calls on the name of the Lord will be saved."
+        ]
+      }
+    ],
+    "back": "/statements/4"
+  }
+]
