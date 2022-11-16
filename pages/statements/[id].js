@@ -63,6 +63,12 @@ export async function getServerSideProps(context) {
 
   const data = await fetch(url).then((res) => res.json());
 
+  if (data.error) {
+    return {
+      notFound: true,
+    };
+  }
+
   return {
     props: {
       statement: data,

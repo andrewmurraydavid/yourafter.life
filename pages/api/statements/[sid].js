@@ -10,6 +10,6 @@ export default function handler(req, res) {
   if (statement) {
     res.status(200).json(statement);
   } else {
-    res.status(404).json({message: 'Statement not found'});
+    res.status(404).json({error: 'Statement not found'});
   }
 }
