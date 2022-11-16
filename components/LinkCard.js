@@ -27,9 +27,11 @@ export default function LinkCard(props) {
         <h2 dangerouslySetInnerHTML={{ __html: link.title }} />
         <p dangerouslySetInnerHTML={{ __html: link.subtitle }} />
         <br />
-        <span>
-          <small>Click here to continue</small>
-        </span>
+        {link.id !== "email" && (
+          <span>
+            <small>Click here to continue</small>
+          </span>
+        )}
       </a>
     </Link>
   );

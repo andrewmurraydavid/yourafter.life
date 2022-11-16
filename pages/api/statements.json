@@ -129,6 +129,13 @@
         ]
       }
     ],
-    "back": "/statements/4"
+    "back": "/statements/4",
+    "links": [
+      {
+        "id": "email",
+        "subtitle": "If you want to know more, contact us at contact@youraflter.life",
+        "to": "mailto:contact@yourafter.life"
+      }
+    ]
   }
 ]
